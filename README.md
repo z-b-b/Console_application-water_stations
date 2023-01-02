@@ -1,2 +1,2 @@
-# Python-water_stations
+# Water stations
 Simulation of water stations
